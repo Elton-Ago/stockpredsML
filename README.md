@@ -4,4 +4,4 @@ This is my first machine learning project using various python packages such as 
 All of this is using psuedo "paper" money from the Alpaca API. This is a personal educational project to better my understanding of machine learning and something I find very interesting--the stock market. 
 I will be using mostly jupyter notebook and pycharm for IDE's
 Terminal pushs and pulls
-The goal is to have a fully functional webpage and AI that generates and accounts for various market indicators like inflation, data scraping, and utilizing data analysis techniques
+The goal is to have a fully functional webpage and AI that executes trades and accounts for various market indicators like inflation, data scraping, and utilizing data analysis techniques
